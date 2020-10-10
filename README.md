@@ -8,9 +8,11 @@ vercel
 ```
 curl https://python-api.ming-taiwan.vercel.app/api/hello
 ```
+[click here](https://python-api.ming-taiwan.vercel.app/api/hello)
 # demo date
 ```
 curl https://python-api.ming-taiwan.vercel.app/api/date
+[click here](https://python-api.ming-taiwan.vercel.app/api/date)
 ```
 # use your own end-point
 when you run "vercel" it will show your endpoint of the api server
