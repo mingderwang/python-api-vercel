@@ -26,5 +26,5 @@ when you run "vercel" it will show your endpoint of the api server
 # production
 ```
 vercel --prod
-[click here](https://python-api-alpha.vercel.app/api/star)
 ```
+[click here](https://python-api-alpha.vercel.app/api/star)
