@@ -1,5 +1,11 @@
 # python api server run on vercel
 To have your account on https://vercel.com/ first.
+
+# debug on localhost
+```
+python3 run_local.py
+```
+瀏覽 http://localhost:8080
 # deploy
 ```
 vercel
