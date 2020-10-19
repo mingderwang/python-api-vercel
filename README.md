@@ -3,9 +3,9 @@ To have your account on https://vercel.com/ first.
 
 # debug on localhost
 ```
-python3 run_local.py
+vercel dev
 ```
-瀏覽 http://localhost:8080
+瀏覽 http://localhost:3000
 # deploy
 ```
 vercel
